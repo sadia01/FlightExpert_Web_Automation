@@ -2,7 +2,6 @@
 This project automates the end-to-end travel UI flow using Selenium WebDriver. The code navigates through the flight booking process, selecting source and destination airports, departure date, and number of passengers.
 
 # Code Explanation
-The code consists of the following steps:
 
 # Select Source Airport:
 1. Click on the source airport dropdown
